@@ -3,8 +3,8 @@ import React from 'react';
 import Link from 'next/link'; // Importujemy Link z Next.js
 import TeaSet from '../../components/lab8/zad1'; // Zakładając, że zad1.js znajduje się w src
 import TeaSetPop from'../../components/lab8/zad1pop';
-import UserInteraction from '../../components/Lab8/zad2';
-import './Page.css';  // Importujemy zewnętrzny plik CSS
+import UserInteraction from '../../components/lab8/zad2';
+import './page.css';  // Importujemy zewnętrzny plik CSS
 
 const Lab8Page = () => {
   return (
